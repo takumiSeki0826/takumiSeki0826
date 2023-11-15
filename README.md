@@ -23,5 +23,3 @@ I'm a web developer and project manager based in Fukuoka.
   - Web Developer (Backend and Frontend) and PjM as freelancer
 - BEENOS (2018/1-2020/6)
   - Web Developer (Backend) and PjM
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumiSeki0826&theme=onedark&show_icons=true)
