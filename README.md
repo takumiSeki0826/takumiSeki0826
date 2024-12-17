@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 I'm a web developer and project manager based in Fukuoka.
 
 ### Career
-- Money Forward (2024/4-present)
-  - CRE (Customer Reliability Engineer)
-- GAOGAO (2020/7-2024/2)
-  - Web Developer (Backend and Frontend) and PjM as freelancer
-- BEENOS (2018/9-2020/6)
-  - Web Developer (Backend) and PjM
+- Money Forward (2024/4-present) CRE
+- GAOGAO (2020/7-2024/2) Web Developer (Backend and Frontend) and PjM as freelancer
+- BEENOS (2018/9-2020/6) Web Developer (Backend) and PjM
