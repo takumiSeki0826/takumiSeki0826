@@ -1,5 +1,3 @@
-### Hi I'm Takumi Seki 👋
-
 <!--
 **takumiSeki0826/takumiSeki0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Who am I
-I'm a web developer and project manager based in Fukuoka.
-
-### Career
-- Money Forward (2024/4-present) CRE
-- GAOGAO (2020/7-2024/2) Web Developer (Backend and Frontend) and PjM as freelancer
-- BEENOS (2018/9-2020/6) Web Developer (Backend) and PjM
